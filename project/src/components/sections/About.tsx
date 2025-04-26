@@ -141,14 +141,7 @@ const About: React.FC = () => {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <div className="absolute -bottom-4 right-0 bg-white dark:bg-dark-200 rounded-lg shadow-lg px-4 py-2 z-20 transform hover:scale-110 transition-transform duration-300">
-                <div className="flex items-center gap-2">
-                  <span className="w-3 h-3 bg-green-500 rounded-full animate-pulse"></span>
-                  <span className="text-gray-900 dark:text-white font-medium">
-                    Open to work
-                  </span>
-                </div>
-              </div>
+             
             </div>
           </motion.div>
         </div>
